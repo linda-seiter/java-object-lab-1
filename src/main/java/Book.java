@@ -2,6 +2,7 @@ public class Book {
 
     //add fields here
 	private String title;
+	private String isbn;
 
 
     public static void main(String[] args) {
