@@ -1,6 +1,7 @@
 public class Book {
 
     //add fields here
+	private String title;
 
 
     public static void main(String[] args) {
